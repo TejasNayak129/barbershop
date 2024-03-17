@@ -3,7 +3,7 @@
 
 A barber shop website Created By Tejas Nayak and Vivek Dubey (https://barber-shop.azurewebsites.net/)
 
-# Collabrated with https://github.com/VivekDubey2002
+# Collabrated with https://github.com/VivekDubey991
 
 
 # Problem statement 
